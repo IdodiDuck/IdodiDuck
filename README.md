@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="wpf" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/opencv/opencv/master/sources/platforms/github/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
