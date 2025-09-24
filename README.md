@@ -19,11 +19,11 @@
 
 ### 📊 GitHub Stats
 
-![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=idoredid&show_icons=true&theme=tokyonight)
+![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdodiDuck&show_icons=true&theme=tokyonight)
 
 ### 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idoredid&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdodiDuck&layout=compact&theme=tokyonight)
 
 ### 📫 How to Reach Me
 
