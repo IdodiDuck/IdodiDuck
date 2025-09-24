@@ -1,9 +1,9 @@
 # Hi there 👋, I’m Ido Redid
 
 ### 💻 About Me
-I'm a software developer passionate about programming, networking and security.
-I'm currently working on LAN IDPS project as part of Magshimim's final project.
-Always eager to learn new things and tackle interesting challenges.
+- I'm a software developer passionate about programming, networking and security.
+- I'm currently working on LAN IDPS project as part of Magshimim's final project.
+- Always eager to learn new things and tackle interesting challenges.
 
 ### 🛠️ Languages & Tools
 
