@@ -17,15 +17,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
-![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdodiDuck&show_icons=true&theme=tokyonight)
+| Stats | Most Used Languages |
+|-------|----------------------|
+| ![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdodiDuck&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdodiDuck&layout=compact&theme=tokyonight) |
 
-### 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdodiDuck&layout=compact&theme=tokyonight)
 
 ### 📫 How to Reach Me
 
-[![Gmail](https://img.shields.io/badge/Email-ido.redid%40gmail.com?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:ido.redid@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-ido.redid%40gmail.com?style=flat&logo=minutemailer&logoColor=white&color=gray)](mailto:ido.redid@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-IdodiDuck?style=flat&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/IdodiDuck)
