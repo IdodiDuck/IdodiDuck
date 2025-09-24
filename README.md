@@ -1,15 +1,13 @@
 <h1 align="left">Hi there 👋, I’m Ido Redid</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idoredid" alt="Ido Redid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IdodiDuck" alt="Ido Redid" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IdodiDuck](https://github.com/IdodiDuck)
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me: 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20" valign="bottom"/>
-<a href="mailto:ido.redid@gmail.com" target="_blank" rel="noreferrer"> ido.redid@gmail.com</a>, 
-<img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="discord" width="20" height="20" valign="bottom"/>
-<a href="https://discord.com/users/534391718917701635" target="_blank" rel="noreferrer"> IdodiDuck</a>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20" valign="bottom"/> <a href="mailto:ido.redid@gmail.com" target="_blank" rel="noreferrer"> ido.redid@gmail.com</a>, 
+<img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="discord" width="20" height="20" valign="bottom"/> <a href="https://discord.com/users/534391718917701635" target="_blank" rel="noreferrer"> IdodiDuck</a>
 
 <h3>🛠️ Languages & Tools</h3>
 <p>
