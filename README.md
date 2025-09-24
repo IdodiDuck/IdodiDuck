@@ -29,5 +29,3 @@ Always eager to learn new things and tackle interesting challenges.
 
 [![Gmail](https://img.shields.io/badge/Email-ido.redid%40gmail.com?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:ido.redid@gmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-IdodiDuck?style=flat&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/IdodiDuck)
-- Discord: yourDiscord#1234  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
